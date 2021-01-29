@@ -88,7 +88,8 @@ section{
     margin-top:2rem;
     background-color:#F1FAEE;
     padding: 2rem;
-    
+    height: 300px;
+    border-bottom: 2px solid #4B8CA6;
 }
 section h5{
     color: black;
@@ -102,4 +103,13 @@ section p{
     text-align: center;
     margin-top: 0;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#products {
+    border-top: 2px solid #F1FAEE;
+    height: 100vh;
+    background-color: #4B8CA6 ;
+}
+.container ul {
+    list-style: none;
+
 }
