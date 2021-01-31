@@ -125,9 +125,9 @@ section div{
 #products {
     border-top: 2px solid #F1FAEE;
     height: 100vh;
-    background-color: #4B8CA6 ;
 }
 .container ul {
     list-style: none;
+    color: cornsilk;
 
 }
