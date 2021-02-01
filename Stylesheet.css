@@ -78,7 +78,7 @@ a:hover{
 
 section{
     margin: 0;
-    height: 380px;
+    height: 220px;
     padding: 0;
     background-color:#F1FAEE;
 
@@ -103,9 +103,10 @@ section p{
     margin: 0;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
-section div{
+.heading img{
     margin: 0;
-    border: 3px solid red;
+    width: 90vw;
+    height:100px
 }
 #products {
     border-top: 2px solid #F1FAEE;
