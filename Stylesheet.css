@@ -42,6 +42,7 @@ nav{
     margin: auto;
     padding:1rem;
     border-top: solid 2px #D93B58;
+    border-bottom: 2px solid white;
     margin-top: 5px;
 
 
@@ -65,7 +66,7 @@ nav a{
 
     color: #F1FAEE;
     margin: 1vw;
-    font-size: 1rem;
+    font-size: .8rem;
 
 }
 
@@ -78,35 +79,33 @@ a:hover{
 
 section{
     margin: 0;
-    height: 220px;
     padding: 0;
-    background-color:#F1FAEE;
-
-    border: darkblue 8px solid;
+    background-color:white;
     margin:auto;
+    border-bottom: 2px solid black;
 }
 section h5{
-    border: 3px solid red;
+    border-top: 2px solid black;
     color: #4B8CA6 ;
     text-align: center;
-    font-size: 2rem;
+    font-size: 3rem;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     padding: 0;
     margin: 0;
+    
 
 }
 section p{
-    border: 3px solid red;
     color: #D93B58;
-    font-size: .8rem;
+    font-size: 1rem;
     text-align: center;
     margin: 0;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 .heading img{
-    margin: 0;
-    width: 90vw;
-    height:100px
+    width: 100%;
+    height:100%;
+
 }
 #products {
     border-top: 2px solid #F1FAEE;
