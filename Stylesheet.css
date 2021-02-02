@@ -47,7 +47,7 @@ body{
   
  h1 {
     width: 80vw;
-    margin:auto;
+    margin:0;
     text-align: center;
     padding-top: 10vh;
     color: #D93B58;
