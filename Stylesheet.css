@@ -163,3 +163,9 @@ section p{
     color: cornsilk;
 
 }
+@media screen and (min-width: 401px) and (max-width: 1024px) {
+    #tbleft{
+        font-size: .6rem;
+    }
+    #tbright { display: none; }   /* hide it elsewhere */
+  }
