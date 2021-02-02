@@ -10,6 +10,7 @@ body{
 .top-bar {
     position: fixed;
     margin: 0;
+
     padding: 0;
     background-color:#4B8CA6;
     width:100%;
@@ -73,7 +74,7 @@ body{
    background-color: #0E76A8;
 
 }
-h1 {
+.Name h1 {
     width: 80vw;
     margin:auto;
     text-align: center;
@@ -164,7 +165,7 @@ section p{
     color: cornsilk;
 
 }
-@media screen and (min-width: 401px) and (max-width: 1024px) {
+@media screen and (max-width: 1024px)  {
     #tbleft li{
         font-size: .6rem;
         margin: 0;
