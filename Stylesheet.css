@@ -46,10 +46,10 @@ body{
     }
   
  h1 {
-    width: 75vw;
+    width: 80vw;
     margin:auto;
     text-align: center;
-    padding-top: 2.5rem;
+    padding-top: 10vh;
     color: #D93B58;
     font-family: 'Comfortaa', cursive;
     font-size: 3rem;
