@@ -164,8 +164,10 @@ section p{
 
 }
 @media screen and (min-width: 401px) and (max-width: 1024px) {
-    #tbleft{
+    #tbleft li{
         font-size: .6rem;
+        margin: 0;
+        padding: 0;
     }
     #tbright { display: none; }   /* hide it elsewhere */
   }
