@@ -12,18 +12,65 @@ body{
     padding: 0;
     background-color:#4B8CA6;
     width:100%;
+    font-size: 1rem;
+    color: white;
     
 }
-.top-bar ul{
+.top-bar div{
+    display: inline-block;
     margin: 0;
     padding: 0;
+
 }
-.top-bar li{
-    text-decoration: none;
+.top-bar div ul{
+    margin: 0;
+    padding: 0;
+
+}
+#email a{
+    color: white;
+   text-decoration: none;
+}
+#tbleft ul {
+    margin-right:5vw;
+
+}
+#tbright p {
+    margin-left: 5vw ;
+   
+}
+#tbleft ul li{
     display: inline-block;
-    color: #F1FAEE;
-    font-size: .9rem;
-    padding: 0 1rem ;
+    margin-left: 5vw;
+
+}
+#tbright p{
+    display: inline-block;
+    padding: 0;
+    margin: 0;
+    text-align: right;
+
+}
+#tbright a{
+    color: white;
+    font-weight: bold;
+    padding: 1rem;
+}
+.top-bar p{
+    text-align: right;
+    padding: 1rem;
+    font-weight: bold;
+}
+
+#fbicon,#linkedinicon{
+    font-weight: bold;
+}
+#fbicon:hover{
+   background-color: #4267B2;
+}
+#linkedinicon:hover{
+   background-color: #0E76A8;
+
 }
 h1 {
     width: 80vw;
@@ -70,7 +117,7 @@ nav a{
 
 }
 
-a:hover{
+nav a:hover{
     text-decoration: None;
     color: #D93B58;
     border-bottom:dashed 5px #D93B58;
